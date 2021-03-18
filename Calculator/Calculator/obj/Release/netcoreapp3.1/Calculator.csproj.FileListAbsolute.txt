@@ -1,0 +1,12 @@
+C:\Users\Adeline\Desktop\VisualStudio\Calculator\Calculator\bin\Release\netcoreapp3.1\Calculator.exe
+C:\Users\Adeline\Desktop\VisualStudio\Calculator\Calculator\bin\Release\netcoreapp3.1\Calculator.deps.json
+C:\Users\Adeline\Desktop\VisualStudio\Calculator\Calculator\bin\Release\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\Adeline\Desktop\VisualStudio\Calculator\Calculator\bin\Release\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\Adeline\Desktop\VisualStudio\Calculator\Calculator\bin\Release\netcoreapp3.1\Calculator.dll
+C:\Users\Adeline\Desktop\VisualStudio\Calculator\Calculator\bin\Release\netcoreapp3.1\Calculator.pdb
+C:\Users\Adeline\Desktop\VisualStudio\Calculator\Calculator\obj\Release\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Adeline\Desktop\VisualStudio\Calculator\Calculator\obj\Release\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\Adeline\Desktop\VisualStudio\Calculator\Calculator\obj\Release\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Adeline\Desktop\VisualStudio\Calculator\Calculator\obj\Release\netcoreapp3.1\Calculator.dll
+C:\Users\Adeline\Desktop\VisualStudio\Calculator\Calculator\obj\Release\netcoreapp3.1\Calculator.pdb
+C:\Users\Adeline\Desktop\VisualStudio\Calculator\Calculator\obj\Release\netcoreapp3.1\Calculator.genruntimeconfig.cache
